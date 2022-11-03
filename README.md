@@ -1,2 +1,2 @@
 # Museum-of-Candy
-To view the code (or the content) click on the main button switch it to master.
+A simple responsive web page of Candy Museum giving some information about the candies and displaying their pictures. Some of the important technologies used are flexbox, Vanilla JS for hamburger button and media queries for responsiveness.
